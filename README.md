@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Rivaldo - aka [Rivaldosmj](https://www.youtube.com/@rivaldosimanjorang5402) 👋
 ## About me:
 - 🔭 I'm interested in IoT and firmware programming
 - 🌱 I'm currently diving deeper into IoT, focusing on networking and web development
