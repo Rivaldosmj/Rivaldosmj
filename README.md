@@ -30,8 +30,6 @@
 ### Connect with me:
 [![website](./img/youtube-light.svg)](https://youtube.com/@rivaldosimanjorang5402?si=8xs_E4GZg5OarOBx#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@rivaldosimanjorang5402?si=8xs_E4GZg5OarOBx#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rivaldo-simanjorang-0a1222238/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rivaldo-simanjorang-0a1222238/#gh-dark-mode-only)
 &nbsp;&nbsp;
